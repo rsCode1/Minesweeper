@@ -1,5 +1,6 @@
 # Minesweeper
 A Mine sweeper game written in Java .GUI was created with JavaFX. 
+Submitted as an assignment project for the Course "Object Oriented Programing"
 ### A few notes:
 Mines.java is the core logic of the games handling the creation of the board (matrix),mines ,flags and toggles.
 
