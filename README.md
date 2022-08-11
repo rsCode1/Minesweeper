@@ -1,6 +1,6 @@
 # Minesweeper
 A Mine sweeper game written in Java .GUI was created with JavaFX. 
-###A few notes 
+### A few notes 
 Mines.java is the core logic of the games handling the creation of the board (matrix),mines ,flags and toggles.
 
 MinesController.java is the controller of the SceneBuilder.
